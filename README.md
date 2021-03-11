@@ -1,6 +1,6 @@
 # HighTechShop
 
-##Technologies utilisées : 
+## Technologies utilisées : 
   * HTML
   * CSS
   * Bootstrap 5
