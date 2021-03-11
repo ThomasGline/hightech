@@ -1,0 +1,37 @@
+footer{
+    padding: 1%;
+    background-color: rgb(58, 58, 58);
+}
+#rowFooter{
+    text-align: center;
+    color: white;
+}
+#logoFooter{
+    width: 30%;
+}
+/*SUBSCRIBE*/
+#formSubscribe {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+#btnSubscribe {
+    background-color: rgb(181, 43, 43);
+    border: gray solid 0px;
+    color: white;
+}
+/*PARAGRAPH 1/Contact*/
+.pContact{
+    font-size: 0.75rem;
+}
+/*PARAGRAPH 2/Central*/
+.pCentral{
+    font-size: 0.75rem;
+}
+/*HORIZONTAL LINE*/
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgb(122, 122, 122);
+}

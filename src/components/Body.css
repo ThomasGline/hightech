@@ -1,0 +1,46 @@
+.type{
+    border-left: 7px solid rgb(181, 43, 43);
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 24px;
+}
+
+#item{
+width: 200px;
+border:1px solid black;
+}
+span{
+    text-align: center;
+}
+img{
+    max-height: 125px;
+    display: block;
+    margin: auto;
+}
+.card{
+    transition: all .2s ease;
+    border: 5px solid black;
+    margin-bottom: 15px;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.card-title{
+    text-align: center;
+}
+.card-subtitle{
+    text-align: center;
+}
+.bandeau{
+    display: block;
+    background-color: rgb(181, 43, 43);
+    
+}
+.promo{
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+}
