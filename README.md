@@ -8,4 +8,4 @@
   * Node.js
   * Express.js
 
-Déploiement sur Heroku : (https://hightechshopthomas.herokuapp.com/#/)
+Déploiement sur Heroku : https://hightechshopthomas.herokuapp.com/
